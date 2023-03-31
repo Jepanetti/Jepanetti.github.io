@@ -1,1 +1,28 @@
-Terve! tähän tulee general tietoa PWP:stä!
+
+
+<html>
+    <head>
+        <title>Home</title>
+    </head>
+<body>
+
+<h1 style="font-family:Arial;";>Palokka worldbuilding-projekti</h1>
+<p> Tämä tulee olemaan projekti repositorion etusivu josta pääsee liikkumaan eteenpäin. <a href="https://keep.google.com/u/0/" target="_blank">Google Keeps</a></p>
+
+<h2 style="font-family:Arial;">Projektista</h2>
+<p> Palokka worldbuilding-projekti eli PWP on 2022 aloitettu luovan työn kokonaisuus. "Miltä näyttäisi jos me tehtäis oma fantasia maailma? Mitä me haluttais sinne ja mitä ei?" Varsinainen lopputuotos on tämä sivu, kokonaisena ja kaiken kattavana tietolähteenä maailmasta</p>
+
+<h3 style="font-family:Arial;"> Palokka </h3>
+<p>Palokka on Jyväskylän 41. kaupunginosa. Lähialueineen väkiluku on noin 14 5000. Vaikka PWP perustuu palokkaan ja sen lähialueeseen, ja Jyväskylään kokonaisuutena, tarkoitus ei ole luoda fantasia versiota palokasta, vaan inspiroitua keski-suomen maisemista ja maantiedosta.</p>
+<ul style="font-size: larger;">
+<li>Maailma LINKKI</li>
+<li>Mytologia LINKKI</li>
+<li>Historia LINKKI</li>
+</ul>
+
+<img src="kartta.jpeg" alt="Ensimmäinen kartta" width="500" height="800">
+<p style="font-size: larger;"> <i>Ensimäinen kartta + testi et näkyykö kuvat</i></p>
+
+
+</body>
+</html>
